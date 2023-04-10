@@ -27,3 +27,6 @@ jobs:
         with:
           release-type: maven
           #package-name: release-please-action
+          extra-files: |
+            README.md
+            CHANGELOG.md
