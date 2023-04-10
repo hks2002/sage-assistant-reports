@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/hks2002/sage-assistant-reports/compare/v1.0.0...v1.0.1) (2023-04-10)
+
+
+### Documentation
+
+* 📚add readme ([58fb238](https://github.com/hks2002/sage-assistant-reports/commit/58fb2386fe5c03f251011806a486edfb0f5cc4c2))
+
 ## 1.0.0 (2023-04-10)
 
 
