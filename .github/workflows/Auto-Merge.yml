@@ -27,3 +27,4 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           LOG: "TRACE"
           MERGE_DELETE_BRANCH: "true"
+          LOG: "TRACE"
