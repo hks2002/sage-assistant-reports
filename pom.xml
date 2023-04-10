@@ -4,7 +4,7 @@
 
 	<groupId>com.da</groupId>
 	<artifactId>sage-assistant-reports</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>sage-assistant-reports</name>
 	<description>Sage Assistant Crystal Reports</description>
 	<packaging>war</packaging>
