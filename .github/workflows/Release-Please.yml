@@ -20,13 +20,10 @@ jobs:
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
-      # Release please create a pull request to the 'main' branch
-      - uses: google-github-actions/release-please-action@v3
+      - uses: googleapis/release-please-action@v5
         with:
-          release-type: maven
-          #package-name: release-please-action
-          extra-files: |
-            README.md
-            CHANGELOG.md
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config-file: .release-please.json
+          manifest-file: .release-please.manifest
