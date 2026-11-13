@@ -7,3 +7,7 @@
 [![release-please: angular](https://img.shields.io/badge/release--please-angular-e10079??style=flat&logo=google)](https://github.com/google-github-actions/release-please-action)
 
 [English](./README.md) | [简体中文](./README.zh-cn.md)
+
+## sage UFL 更新
+可解决Sage 打印慢的问题
+https://github.com/hks2002/crystal-report-ufl-c-plus-plus
